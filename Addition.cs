@@ -5,7 +5,7 @@ namespace Fellowship
 	class Addition
 	
 	{
-		public static void main(String[] args)
+		public static void AdditionofTwo()
 		
 		{
 			int a = 10;
